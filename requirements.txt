@@ -1,0 +1,27 @@
+numpy==1.23
+scipy
+opencv-python
+pillow
+termcolor
+pyyaml
+tqdm
+absl-py
+einops
+kornia
+pytorch-lightning
+matplotlib
+lpips
+imageio
+imageio-ffmpeg
+jupyter
+scipy
+pymcubes
+trimesh
+gdown
+dearpygui
+tensorboard
+scikit-image
+torch_efficient_distloss
+ninja
+git+https://github.com/NVlabs/tiny-cuda-nn/#subdirectory=bindings/torch
+torch-scatter -f https://data.pyg.org/whl/torch-1.13.0+cu117.html
